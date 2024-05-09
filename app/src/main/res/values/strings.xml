@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scooter</string>
+    <string name="FIO">Фамилия Имя Отчество</string>
+    <string name="rating">Ваш рейтинг: N</string>
+    <string name="detailedInfo">Подробная информация</string>
+    <string name="surNameText">Фамилия:</string>
+    <string name="nameText">Имя:</string>
+    <string name="patronymicText">Отчество:</string>
+    <string name="cityText">Город:</string>
+    <string name="emailText">E-mail:</string>
+    <string name="infoText">Для изменения полей, впишите в них нужные вам значения, а после подтвердите или отмените изменения</string>
+</resources>
