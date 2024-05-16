@@ -9,4 +9,5 @@
     <string name="cityText">Город:</string>
     <string name="emailText">E-mail:</string>
     <string name="infoText">Для изменения полей, впишите в них нужные вам значения, а после подтвердите или отмените изменения</string>
+    <string name="exit_btn">Кнопка выхода</string>
 </resources>
